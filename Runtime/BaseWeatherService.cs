@@ -30,7 +30,6 @@ namespace WeatherServices
             }
 
             var jsonResult = request.downloadHandler.text;
-            Debug.Log(jsonResult);
             return ParseWeatherData(jsonResult);
         }
 
