@@ -1,0 +1,10 @@
+{
+  "name": "com.alinulken.weather",
+  "version": "1.0.0",
+  "displayName": "Weather Services",
+  "description": "A Unity package for integrating with various weather services to fetch weather data based on geographical coordinates.",
+  "author": {
+    "name": "Alina Chupakhina",
+    "email": "alinulken@gmail.com"
+  }
+}
