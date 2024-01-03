@@ -3,7 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace WeatherServices.LocationProviders
+namespace WeatherServices
 {
 #if UNITY_ANDROID
         public class AndroidLocationProvider : BaseRuntimeLocationProvider
